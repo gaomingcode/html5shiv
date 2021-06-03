@@ -1,6 +1,20 @@
 # The HTML5 Shiv
 
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/html5shiv.svg)](https://github.com/gaomingcode/html5shiv)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/html5shiv)](https://github.com/gaomingcode/html5shiv)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/html5shiv)](https://github.com/gaomingcode/html5shiv)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/html5shiv
+```
+###
+
 The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
+
 
 ### What do these files do?
 
