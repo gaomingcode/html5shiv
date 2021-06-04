@@ -2,7 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/html5shiv.svg)](https://github.com/gaomingcode/html5shiv)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/html5shiv)](https://github.com/gaomingcode/html5shiv)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/html5shiv)](https://github.com/gaomingcode/html5shiv)
+[![Github License](https://img.shields.io/github/license/gaomingcode/html5shiv)](https://github.com/gaomingcode/html5shiv)
 
 ## Installation
 
@@ -11,10 +11,10 @@
 ```
 composer require gaomingcode/html5shiv
 ```
-###
+
+## ReadMe from Origin
 
 The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
-
 
 ### What do these files do?
 
@@ -164,4 +164,3 @@ A [detailed changelog of html5shiv](https://github.com/aFarkas/html5shiv/wiki) i
 ### Why is it called a *shiv*?
 
 The term **shiv** [originates](http://ejohn.org/blog/html5-shiv/) from [John Resig](https://github.com/jeresig), who was thought to have used the word for its slang meaning, *a sharp object used as a knife-like weapon*, intended for Internet Explorer. Truth be known, John probably intended to use the word [shim](http://en.wikipedia.org/wiki/Shim_(computing)), which in computing means *an application compatibility workaround*. Rather than correct his mispelling, most developers familiar with Internet Explorer appreciated the visual imagery. And that, kids, is [etymology](https://en.wikipedia.org/wiki/Etymology).
-
